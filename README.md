@@ -23,7 +23,7 @@
 
 реализация на сайте:
 http://web-repin.ru/idem/
-
+```
 <?
 $APPLICATION->IncludeComponent(
     "repin:idem",
@@ -36,5 +36,5 @@ $APPLICATION->IncludeComponent(
     )
 );
 ?>            
-
+```
 
